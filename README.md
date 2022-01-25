@@ -1,6 +1,6 @@
 # zphisher
-Zphisher kurulumu
-1=apt update && apt upgrade -y
+
+1=uygun güncelleme && uygun yükselte -y
 
 
 2= pkg install git
