@@ -1,4 +1,4 @@
-# şifre avcısı
+# zphisher 
 1=apt update && apt upgrade -y
 
 
