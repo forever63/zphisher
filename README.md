@@ -1,0 +1,2 @@
+# zphisher
+Zphisher kurulumu
