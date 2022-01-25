@@ -1,6 +1,5 @@
-# zphisher
-
-1=uygun güncelleme && uygun yükselte -y
+# şifre avcısı
+1=apt update && apt upgrade -y
 
 
 2= pkg install git
